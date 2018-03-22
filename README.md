@@ -1,4 +1,6 @@
 # Victor Hugo CMS Template
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/techonomics69/casper-cms-template.svg)](https://greenkeeper.io/)
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/casper-cms-template)
 
